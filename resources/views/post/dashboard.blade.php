@@ -11,7 +11,8 @@
 <div class="container">
   <table class="table">
     <thead class="thead-light">
-      <tr>
+      <tr class="table-dark">
+
         <th scope="col">id</th>
         <th scope="col">title</th>
         <th scope="col">edit</th>
